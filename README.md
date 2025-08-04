@@ -69,7 +69,7 @@ The features listed here are actively being developed and polished. The goal is 
 
 
 * **Join the Community:** **[Discord Server](https://discord.com/invite/vzfmdFyrZa)**
-* **Visit AnonLab:** **[anon.smstar.hu](http://anon.smstar.hu)**
+* **Visit AnonLab:** **[anon.smstar.hu](http://anonlab.hu/)**
 
 ---
 
