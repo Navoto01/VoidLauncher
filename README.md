@@ -31,7 +31,7 @@ VoidLauncher is a premium, highly customizable, and aesthetics-focused Android l
 
 Have questions, suggestions, or want to stay up to date with the latest releases? Join our official community server!
 
-[![Discord Banner](https://img.shields.io/discord/1126938927976824903?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/d2VRGyvbEU)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d2VRGyvbEU)
 
 ---
 
