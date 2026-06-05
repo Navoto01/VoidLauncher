@@ -1,84 +1,42 @@
-# VoidLauncher: A Modern, Minimalist Android Experience
+# VoidLauncher
 
-> **Please Note:** This project is currently under active development and is not yet available for public release. The features and designs described here are subject to change.
+VoidLauncher is a premium, highly customizable, and aesthetics-focused Android launcher designed to redefine your home screen experience. Combining fluid animations, modern styling options, and robust layouts, VoidLauncher balances elegance and performance.
 
-Welcome to **VoidLauncher**, a custom Android homescreen experience built from the ground up for users who value aesthetics, performance, and deep customization. Inspired by the clean and fluid designs of HarmonyOS and iOS, VoidLauncher aims to provide a beautiful, minimalist, and highly animated interface for your Android device.
-
----
-
-### ✨ Key Features
-
-* **Elegant, Animated Interface:** Every interaction is designed to be visually satisfying. From the custom "push effect" on buttons to the fluid transitions when entering Edit Mode, the entire experience is smooth and responsive.
-* **Guided Onboarding Experience:** First-time users are greeted with a multi-step setup process that introduces the launcher with a custom video animation and allows them to personalize key settings before they even reach the homescreen.
-* **Deep Homescreen Customization (Edit Mode):** A long press on the homescreen activates a powerful Edit Mode. Rearrange your apps across multiple pages, and access controls for planned features like custom wallpapers, themes, and icon packs.
-* **Dynamic Icon & Label Sizing:** During setup, you can precisely control the size of your app icons and choose whether to display app labels, with a real-time preview of your changes.
-* **Smart, Animated Search:** The launcher features an iOS-style search bar that intelligently animates above the keyboard when active, providing a seamless search experience without disrupting the UI.
-* **Planned AI Integration:** A built-in **AnonAI** feature is planned, allowing you to interact with an AI chatbot directly from your homescreen, complete with personality modes and quick actions.
+> [!NOTE]
+> This is a solo developer project built by **Navoto01** under the **AnonLab** brand.
 
 ---
 
-### In-Depth Look at Features
+## Current Status & Roadmap
 
-#### The Onboarding Experience
-
-VoidLauncher ensures a perfect setup from the very first launch.
-1.  **Video Intro:** A beautiful, full-screen video animation greets you, which you activate with a simple swipe-up gesture.
-2.  **Live Customization:** You are then guided to a screen where you can adjust icon size and toggle app labels, seeing the results instantly in a live preview area.
-3.  **Animated Welcome:** Finally, a stunning, animated welcome screen confirms your setup is complete before launching you into the main homescreen.
-
-#### The Homescreen
-
-The core of the launcher is clean, organized, and functional.
-* **Paginated App Grid:** Your apps are organized across multiple pages using a smooth `ViewPager2`, which you can swipe through.
-* **iOS-Style Dock & Search:** A persistent, floating dock at the bottom provides quick access to your essential apps, while a sleek search bar sits just above it.
-* **Page Indicators:** Small dots clearly indicate which homescreen page you are currently viewing.
-
-#### Powerful Edit Mode
-
-This is where true personalization happens.
-* **Activation:** Long-press anywhere on the homescreen to enter Edit Mode.
-* **Visual Transformation:** The entire UI animates into a new state: your app grid scales down, and new control buttons for **Wallpapers, Themes, Icons, and Settings** elegantly slide into view at the bottom.
-* **App Organization:** Drag and drop your app icons to rearrange them on the page or move them to different pages.
-* **Widget Adding Mode:** An "Add" button in Edit Mode reveals a planned interface for adding widgets to your homescreen, featuring a smooth, full-screen expansion animation.
-
-#### AnonAI Integration
-
-Based on the `anonai.xml` layout, a powerful AI assistant is a core planned feature.
-* **Direct Access:** Launch a full-screen AI chat interface directly from your homescreen.
-* **Quick Actions:** Use preset buttons for common tasks like "Write me a code" or "Tell the latest news".
-* **Personalities:** Just like the standalone app, you'll be able to choose from different AI personalities to tailor your conversation.
+* **Latest Release (`Beta 6.1`)**: Currently available to everyone on our Discord server. It features our stunning visual design, though please note it still contains various bugs and performance lags.
+* **Under Development (`Beta 7`)**: We are completely rewriting the launcher from scratch at extreme speed. The upcoming **Beta 7** brings massive improvements:
+  * **Exceptional Performance**: Optimized to run at a stable 50+ FPS even on older devices like the Samsung Galaxy S10.
+  * **Refined UI**: Many more and significantly better UI components.
+  * **Tablet Support**: Fully optimized layouts for larger screen devices.
+  * **A Ton of New Features & Enhancements**: A massive step forward in customization and stability.
 
 ---
 
-### 💻 Tech Stack
+## Key Features
 
-* **Language:** **Kotlin**
-* **UI:** **Android XML Layouts**
-* **Animations:** **Lottie** for complex vector animations (like the loading screen) and Android's native **`AnimatorSet`** and **`ObjectAnimator`** for all UI transitions.
-* **Core Components:** `ViewPager2`, `RecyclerView`, `ConstraintLayout`.
-
----
-
-### 🚀 Project Status
-
-**VoidLauncher is currently a work-in-progress and is not yet available for public download.**
-
-The features listed here are actively being developed and polished. The goal is to create a uniquely fluid and visually appealing launcher that stands out from the rest. Follow this repository for updates on our progress!
+* **Liquid Glass Aesthetics**: Experience modern glassmorphism styling with real-time blur, vibrancy, and lens distortions dynamically matching your wallpaper.
+* **Monarch Shapes**: Customize your dock, folders, and icons using premium, smooth G2 monarch shapes and custom corner radii.
+* **Fluid Animations**: High-performance transition effects and launch/exit animations that make interacting with your device feel natural and tactile.
+* **Custom Layouts**: Full control over grid sizes, icon opacity, label visibility, page indicators, and beyond-viewport scrolling features.
 
 ---
 
+## Join the Community
 
-* **Join the Community:** **[Discord Server](https://discord.com/invite/vzfmdFyrZa)**
-* **Visit AnonLab:** **[anon.smstar.hu](http://anonlab.hu/)**
+Have questions, suggestions, or want to stay up to date with the latest releases? Join our official community server!
+
+[![Discord Banner](https://img.shields.io/discord/1126938927976824903?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/d2VRGyvbEU)
 
 ---
 
-### Credits
+## License & Availability
 
-* **Lead Developer & Designer:** Navoto01
-* **Project:** AnonLab
-* **Testing & Feedback**: Special thanks to the testers who helped improve the application:
-
-    * Maxi
-    * N0TThat
-    * Vale
+VoidLauncher is a proprietary software project. 
+* All rights reserved.
+* The source code is closed-source. Re-distribution, modification, or commercial use without explicit permission is strictly prohibited.
