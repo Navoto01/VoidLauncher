@@ -9,8 +9,7 @@ VoidLauncher is a premium, highly customizable, and aesthetics-focused Android l
 
 ## Current Status & Roadmap
 
-* **Latest Release (`Beta 6.1`)**: Currently available to everyone on our Discord server. It features our stunning visual design, though please note it still contains various bugs and performance lags.
-* **Under Development (`Beta 7`)**: We are completely rewriting the launcher from scratch at extreme speed. The upcoming **Beta 7** brings massive improvements:
+* **Latest release (`Beta 7`)**: We are completely rewriting the launcher from scratch at extreme speed. The upcoming **Beta 7** brings massive improvements:
   * **Exceptional Performance**: Optimized to run at a stable 50+ FPS even on older devices like the Samsung Galaxy S10.
   * **Refined UI**: Many more and significantly better UI components.
   * **Tablet Support**: Fully optimized layouts for larger screen devices.
